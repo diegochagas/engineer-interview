@@ -1,5 +1,4 @@
-import React from 'react'
-import { ChallengeComponent } from './ChallengeComponent'
+import { ChallengeComponent } from './components/ChallengeComponent'
 import './App.css'
 
 function App() {
@@ -29,6 +28,7 @@ function App() {
           boxSizing: 'border-box',
           boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)',
           borderRadius: 40,
+          padding: '30px',
         }}>
         <ChallengeComponent />
       </main>

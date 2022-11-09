@@ -1,0 +1,21 @@
+.container-input {
+  display: flex;  
+  height: 50px;
+}
+
+.input {
+  margin-right: 20px;
+  font-size: 18px;
+  padding-left: 12px;
+}
+
+.button {
+  background: #0066ff;
+  border: none;
+  border-radius: 5px;
+  width: 70px;
+}
+
+.icon-plus {
+  width: 30px;  
+}

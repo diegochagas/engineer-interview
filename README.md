@@ -1,3 +1,10 @@
+# To execute the Project
+Run on the repository root folder:
+```npm start```
+and
+```npm run server```
+
+
 ## Video Intro
 https://www.loom.com/share/3df7fcb5424644638b00724cb178e2ff
 

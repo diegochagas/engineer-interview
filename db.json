@@ -1,0 +1,23 @@
+{
+  "todo": [
+    {
+      "id": "1667945374354",
+      "label": "Mow The lawn",
+      "name": "todo"
+    }
+  ],
+  "progress": [
+    {
+      "id": "1667945370043",
+      "label": "Pull Weeds",
+      "name": "progress"
+    }
+  ],
+  "done": [
+    {
+      "id": "1667945369220",
+      "label": "Rake the leaves",
+      "name": "done"
+    }
+  ]
+}

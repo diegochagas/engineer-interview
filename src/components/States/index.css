@@ -1,0 +1,48 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  width: 100%;
+  max-width: 320px;
+  min-width: 260px;
+  box-shadow: 0px 2px 5px grey;
+  border-radius: 20px;
+  min-height: 450px;
+}
+
+.tasks {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+}
+
+.btn {
+  width: 45px;
+  border-radius: 7px;
+  border: none;
+  padding: 0;
+}
+
+.btn-back {
+  background-color: #c20b0b;
+}
+
+.btn-foward {
+  background-color: #218d1f;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+}
+
+.icon {
+  width: 35px;
+}
