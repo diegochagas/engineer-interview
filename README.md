@@ -105,3 +105,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+---
+
+# Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me." - John 14:6
